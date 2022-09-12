@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 10px;
+}
+
+form{
+    background-color: aquamarine;
+    padding: 30px;
+    width: 100%;
+    color: black;
+}
